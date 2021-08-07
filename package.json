@@ -1,7 +1,15 @@
 {
     "name": "vibra",
     "displayName": "Vibra",
-    "description": "",
+    "description": "A Visual Studio Code theme",
+    "author": {
+        "name": "Tay Mizami"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/taymizami/vibra.git"
+    },
+    "publisher": "TayMizami",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
@@ -17,5 +25,10 @@
                 "path": "./themes/Vibra-color-theme.json"
             }
         ]
-    }
+    },
+    "homepage": "https://github.com/taymizami/vibra",
+    "icon": "images/logo.png",
+    "keywords": [
+        "theme"
+    ]
 }
